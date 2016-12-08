@@ -10,7 +10,7 @@ package Rpg;
  * @author licence
  */
 public class Hammer extends Weapon{
-    
+    // Commentaire
     public Hammer(float a) {
         super(a);
     }
